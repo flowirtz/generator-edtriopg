@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "FWirtz",
+      "authorEmail": "florian.wirtz08@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}

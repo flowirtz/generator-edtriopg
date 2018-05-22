@@ -1,0 +1,13 @@
+{
+  "name": "<%= pluginName.toLowerCase() %>",
+  "version": "0.1.0",
+  "description": "",
+  "main": "<%= pluginName %>Plugin.jsx",
+  "author": "",
+  "license": "MIT",
+  "x": {
+    "displayName": "<%= pluginName %>",
+    "type": "CONTENT"
+  },
+  "dependencies": {}
+}
