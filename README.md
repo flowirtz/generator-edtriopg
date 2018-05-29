@@ -1,4 +1,4 @@
-# generator-edtriopg [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-edtriopg [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Plugin generator for the Edtr.io ecosystem
 
 ## Installation
