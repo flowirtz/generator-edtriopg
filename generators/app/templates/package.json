@@ -5,7 +5,7 @@
   "main": "<%= pluginName %>Plugin.jsx",
   "author": "",
   "license": "MIT",
-  "x": {
+  "edtrio": {
     "displayName": "<%= pluginName %>",
     "type": "CONTENT"
   },
